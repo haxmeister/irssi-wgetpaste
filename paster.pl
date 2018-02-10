@@ -28,7 +28,7 @@ sub paste {
                 # did the user send data to the function?
                 if ($data){
 
-                        # does the file the user sent actuall exist? does it contain something?
+                        # does the file the user sent actually exist? does it contain something?
                         if((-e $data) and (-s $data)){
 
                                 # sending the text to wgetpaste
