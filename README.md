@@ -26,7 +26,7 @@ A simple example:
 The plugin will
 
 1. Check to see if wgetpaste exist at /usr/bin/wgetpaste and warn if it does not
-2. Check to see if the user issued a <path-to-file> that actually exists and warn if it does not
-3. Check to see that the file is not empty and warn if it does not
+2. Check to see if the user issued a ```<path-to-file>``` that actually exists and warn if it does not
+3. Check to see that the file is not empty and warn if it is.
 
 
