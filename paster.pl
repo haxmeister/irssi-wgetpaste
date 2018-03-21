@@ -13,7 +13,7 @@ $VERSION = '1.00';
     description => 'This script allows ' .
                    'you to paste a file using wgetpaste ' .
                    'and post the link using a command.',
-    license     => 'Nerd Cred (keep my name in the code)',
+    license     => 'MIT',
 );
 
 
